@@ -1,3 +1,4 @@
+![logo](https://github.com/Siddharth8509/Siddharth8509/blob/main/Github-Banner.png)
 <h1 align="center">Hi 👋, I'm Siddhart Roy 🚀</h1>
 <h3 align="center">  "Just a confused programmer on a mission to become a better developer" </h3>
 <h3 align="center">  💻 Currently in my 3rd year of exploring code, bugs, and caffeine-powered debugging </h3>
